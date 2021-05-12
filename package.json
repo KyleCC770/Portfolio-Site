@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta2",
+    "live-server": "^1.2.1"
+  },
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
