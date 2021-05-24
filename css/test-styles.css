@@ -1,0 +1,104 @@
+/* colors I like
+#373737 , #151515, #DBC596, #F3F3F3, #505050
+*/
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+/*Navbar*/
+.nav-styles {
+  letter-spacing: 0.1rem;
+  padding-left: 3rem;
+}
+
+.navbar-brand {
+  margin-right: 7rem;
+}
+
+.nav-item {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+/*Header Section*/
+.top-section {
+  width: 100%;
+  height: 100vh;
+  background-color: #373737;
+  padding: 2rem 1rem;
+  color: #f3f3f3;
+}
+
+.test-section {
+  width: 100%;
+  height: auto;
+  background-color: #dbc596;
+  padding-bottom: 2rem;
+}
+
+.header-text {
+  font-weight: 200;
+}
+
+.picture-row {
+  height: 60%;
+}
+
+.headshot {
+  height: 15rem;
+  width: auto;
+  border-radius: 50%;
+}
+/*Skills CSS*/
+.skills-section {
+  font-size: 3rem;
+  font-weight: 200;
+  letter-spacing: 0.1rem;
+}
+
+.title-row {
+  height: 10rem;
+  padding-top: 50px;
+}
+
+/*Experience Section*/
+
+.es-title {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  width: 100%;
+  height: auto;
+  background-color: #dbd7d7;
+  letter-spacing: 0.1rem;
+}
+
+.es-body {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.job-item {
+  padding-bottom: 3rem;
+}
+
+/*Portfolio Section*/
+
+.portfolio-title {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  width: 100%;
+  height: auto;
+  background-color: #505050;
+  color: #f3f3f3;
+  letter-spacing: 0.1rem;
+}
+
+/*Education Section*/
+
+.education-title {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  width: 100%;
+  height: auto;
+  letter-spacing: 0.1rem;
+}
